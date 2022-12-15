@@ -1,0 +1,3 @@
+/home/dima/files/source/repos/physics/build/CMakeFiles/physics.dir
+/home/dima/files/source/repos/physics/build/CMakeFiles/edit_cache.dir
+/home/dima/files/source/repos/physics/build/CMakeFiles/rebuild_cache.dir
