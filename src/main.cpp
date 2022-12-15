@@ -1,6 +1,8 @@
 #include <stdio.h> /* printf and fprintf */
 #include <SDL2/SDL.h> /* macOS- and GNU/Linux-specific */
 
+//hi!
+
 /* Sets constants */
 #define WIDTH 800
 #define HEIGHT 600
