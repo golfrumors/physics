@@ -1,7 +1,9 @@
 file(REMOVE_RECURSE
-  "CMakeFiles/physics.dir/src/main.cpp.o"
-  "CMakeFiles/physics.dir/src/main.cpp.o.d"
-  "physics"
+  "CMakeFiles/physics.dir/src/main.cpp.obj"
+  "CMakeFiles/physics.dir/src/main.cpp.obj.d"
+  "libphysics.dll.a"
+  "physics.exe"
+  "physics.exe.manifest"
   "physics.pdb"
 )
 

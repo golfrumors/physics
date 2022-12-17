@@ -1,0 +1,7 @@
+[
+{
+  "directory": "D:/source/repos/physics/build",
+  "command": "C:\\Users\\chere\\mingw64\\bin\\g++.exe   -g -std=gnu++20 -o CMakeFiles\\physics.dir\\src\\main.cpp.obj -c D:\\source\\repos\\physics\\src\\main.cpp",
+  "file": "D:/source/repos/physics/src/main.cpp"
+}
+]

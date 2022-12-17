@@ -8,7 +8,7 @@ set(CMAKE_DEPENDS_LANGUAGES
 
 # The set of dependency files which are needed:
 set(CMAKE_DEPENDS_DEPENDENCY_FILES
-  "/home/dima/files/source/repos/physics/src/main.cpp" "CMakeFiles/physics.dir/src/main.cpp.o" "gcc" "CMakeFiles/physics.dir/src/main.cpp.o.d"
+  "D:/source/repos/physics/src/main.cpp" "CMakeFiles/physics.dir/src/main.cpp.obj" "gcc" "CMakeFiles/physics.dir/src/main.cpp.obj.d"
   )
 
 # Targets to which this target links.
